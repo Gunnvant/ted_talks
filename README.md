@@ -1,1 +1,1 @@
-# ted_talks
+# Code accompanying the blogpost on ted-talks reccomender
